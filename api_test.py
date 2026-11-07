@@ -11,8 +11,3 @@ for index, post in enumerate(first_five_posts, start=1):
     print(f"Заголовок: {post['title']}")
     print(f"Текст: {post['body']}")
     print("-" * 30 + "\n")
-
-
-# Задание 2
-
-
